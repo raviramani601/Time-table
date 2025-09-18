@@ -1,0 +1,5 @@
+streamlit>=1.37.0
+pandas>=2.2.2
+numpy>=1.26.4
+ortools>=9.10.4067
+future>=1.0.0
